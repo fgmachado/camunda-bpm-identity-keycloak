@@ -10,3 +10,4 @@
 *.ipr
 /extension-all/dependency-reduced-pom.xml
 /extension-run/dependency-reduced-pom.xml
+extension-all/targat/
